@@ -1,4 +1,1 @@
-- 👋 Hi, I’m @danielsh95
-- 👀 I’m interested in: development of robots for automated trading in the capital market.
-- 🌱 I’m currently learning "B.A. Computer Science"
-- 💞️ I’m looking to collaborate on development of automated trading strategies
+
